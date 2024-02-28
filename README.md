@@ -1,5 +1,5 @@
 # HTML Projects
-Tutorials / Projects For the Raspberry Pi
+Tutorials / Projects For HTML
 ---
 Hi i'm Jacob,
 Follow me for coding Tutorials / Projects.\
