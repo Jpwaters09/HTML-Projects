@@ -1,3 +1,12 @@
+////////////////////////////////////////////////
+// Ping Pong                                  //
+// Language: JavaScript                       //
+// Author: Jacob Waters                       //
+// Github: github.com/jpwaters09              //
+// Contact me: jpwaters.github@gmail.com      //
+// Follow my WhatsApp Channel: bit.ly/3sr99ZO //
+////////////////////////////////////////////////
+
 const canvas = document.getElementById("pong")
 
 const ctx = canvas.getContext('2d');
@@ -7,10 +16,10 @@ let wall = new Audio();
 let userScore = new Audio();
 let comScore = new Audio();
 
-hit.src = "Sounds/Hit.mp3";
-wall.src = "Sounds/Wall.mp3";
-comScore.src = "Sounds/ComScore.mp3";
-userScore.src = "Sounds/UserScore.mp3";
+hit.src = "sounds/Hit.mp3";
+wall.src = "sounds/Wall.mp3";
+comScore.src = "sounds/ComScore.mp3";
+userScore.src = "sounds/UserScore.mp3";
 
 const ball = {
     x : canvas.width/2,
