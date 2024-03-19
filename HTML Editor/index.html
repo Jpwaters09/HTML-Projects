@@ -1,0 +1,33 @@
+<!----------------------------------------------
+-- HTML Editor                                --
+-- Language: HTML                             --
+-- Author: Jacob Waters                       --
+-- Github: github.com/jpwaters09              --
+-- Contact me: jpwaters.github@gmail.com      --
+-- Follow my WhatsApp Channel: bit.ly/3sr99ZO --
+----------------------------------------------->
+
+<!DOCTYPE html>
+
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Editor</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script defer type="text/javascript" src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/split.js/1.0.0/split.min.js" integrity="sha512-tTsZnBXEzNdEaqUO9Ok8fUofS73xieiBa54pD/sxOSvayIgItM9MmEM0CnUjA13LDnJT22sfwmjf20+Bo2174g==" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="container split">
+      <textarea id="htmlCode" placeholder="Type HTML Code Here" spellcheck="false"></textarea>
+      <textarea id="cssCode" placeholder="Type CSS Code Here" spellcheck="false"></textarea>
+      <textarea id="javascriptCode" spellcheck="false" placeholder="Type JavaScript Code Here"></textarea>
+    </div>
+    <div class="iframe-container split">
+      <button id="run" onclick="update(0)">Run</button>
+      <button id="clear" onclick="location.reload()">Clear</button>
+      <iframe id="viewer"></iframe>
+    </div>
+  </body>
+</html>
