@@ -1,0 +1,22 @@
+/***********************************************
+** Flappy Bird                                **
+** Language: CSS                              **
+** Author: Jacob Waters                       **
+** Github: github.com/jpwaters09              **
+** Contact me: jpwaters.github@gmail.com      **
+** Follow my WhatsApp Channel: bit.ly/3sr99ZO **
+***********************************************/
+
+canvas {
+  display: block;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+html {
+  background-color: dimgrey;
+}
