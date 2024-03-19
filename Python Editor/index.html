@@ -1,0 +1,32 @@
+<!----------------------------------------------
+-- Python Editor                              --
+-- Language: HTML                             --
+-- Author: Jacob Waters                       --
+-- Github: github.com/jpwaters09              --
+-- Contact me: jpwaters.github@gmail.com      --
+-- Follow my WhatsApp Channel: bit.ly/3sr99ZO --
+----------------------------------------------->
+
+<!DOCTYPE html>
+
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8">
+    <title>Python Editor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.24.1/full/pyodide.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/split.js/1.0.0/split.min.js" integrity="sha512-tTsZnBXEzNdEaqUO9Ok8fUofS73xieiBa54pD/sxOSvayIgItM9MmEM0CnUjA13LDnJT22sfwmjf20+Bo2174g==" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <div class="container split">
+      <textarea id="code" spellcheck="false" placeholder="Type Python Code Here"></textarea>
+    </div>
+    <div class="iframe-container split">
+      <button id="run" onclick="evaluatePython()">Run</button>
+      <button id="clear" onclick="location.reload()">Clear</button>
+      <textarea id="output" disabled=""></textarea>
+    </div>
+  </body>
+</html>
