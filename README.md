@@ -17,7 +17,6 @@ Join my discord server: https://discord.gg/76dFqekSXz
 - [Tetris](https://github.com/Jpwaters09/HTML-Projects/tree/main/Tetris)
 
 ## Repositories:
-
 - [Comment Remover](https://github.com/Jpwaters09/Comment-Remover)
 - [C++ Projects](https://github.com/Jpwaters09/CPP-Projects)
 - [HTML Projects](https://github.com/Jpwaters09/HTML-Projects)
