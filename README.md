@@ -17,8 +17,38 @@ Join my discord server: https://discord.gg/289Ff2GQ
 - [Tetris](https://github.com/Jpwaters09/HTML-Projects/tree/main/Tetris)
 
 ## Repositories:
-- [Comment Remover](https://github.com/Jpwaters09/Comment-Remover)
-- [C++ Projects](https://github.com/Jpwaters09/CPP-Projects)
-- [HTML Projects](https://github.com/Jpwaters09/HTML-Projects)
-- [Python Projects](https://github.com/Jpwaters09/Python-Projects)
-- [Raspberry Pi Projects](https://github.com/Jpwaters09/Raspberry-Pi-Projects)
+
+<a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-Raspberry%20Pi%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Raspberry Pi Projects" height="30" />
+</a>
+
+<a href="https://github.com/Jpwaters09/HTML-Projects">
+  <img src="https://img.shields.io/badge/HTML%20Projects-HTML%20Projects?logo=HTML5&logoColor=white&labelColor=%23E34F26&color=grey" alt="HTML Projects" height="30" />
+</a>
+
+<a href="https://github.com/Jpwaters09/Python-Projects">
+  <img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Python Projects" height="30" />
+</a>
+
+<a href="https://github.com/Jpwaters09/CPP-Projects">
+  <img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=%2300599C&color=grey" alt="C++ Projects" height="30" />
+</a>
+
+<a href="https://github.com/Jpwaters09/Comment-Remover">
+  <img src="https://img.shields.io/badge/Comment%20Remover-Comment%20Remover?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Comment Remover" height="30" />
+</a>
+
+## Socials:
+
+<a href="mailto:jpwaters.github@gmail.com">
+  <img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+</a>
+
+<a href="https://discord.com/invite/76dFqekSXz">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+</a>
+
+<a href="https://paypal.me/JacobW120">
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"  />
+</a>
+</div>
