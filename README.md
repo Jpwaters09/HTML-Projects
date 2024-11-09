@@ -15,7 +15,6 @@
 
 <div align="center">
   <h3>HTML Projects:</h3>
-  <a href="https://github.com/Jpwaters09/HTML-Projects/tree/main/Camera"><img src="https://img.shields.io/badge/Camera-Camera?logo=HTML5&logoColor=white&labelColor=E34F26&color=grey" alt="Camera" height="30"/></a>
   <a href="https://github.com/Jpwaters09/HTML-Projects/tree/main/Flappy%20Bird"><img src="https://img.shields.io/badge/Flappy%20Bird-Flappy%20Bird?logo=HTML5&logoColor=white&labelColor=E34F26&color=grey" alt="Flappy Bird" height="30"/></a>
   <a href="https://github.com/Jpwaters09/HTML-Projects/tree/main/HTML%20Editor"><img src="https://img.shields.io/badge/HTML%20Editor-HTML%20Editor?logo=HTML5&logoColor=white&labelColor=E34F26&color=grey" alt="HTML Editor" height="30"/></a>
   <a href="https://github.com/Jpwaters09/HTML-Projects/tree/main/Password%20Generator"><img src="https://img.shields.io/badge/Password%20Generator-Password%20Generator?logo=HTML5&logoColor=white&labelColor=E34F26&color=grey" alt="Password Generator" height="30"/></a>
